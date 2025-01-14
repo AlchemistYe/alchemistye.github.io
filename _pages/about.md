@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Education"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**Shanghai Jiao Tong University**              
+*B.Eng. in Computer Science and Engineering*             -- September 2020 - June 2024
+
 I am a first-year master student majored in Computer Science in Shanghai Jiao Tong University (2024.9-), under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/).
 
 A data-driven personal website
