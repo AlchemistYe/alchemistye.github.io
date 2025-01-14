@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 **Shanghai Jiao Tong University**              
-*B.Eng. in Computer Science and Engineering*  **2020.9-2024.6**
+*B.Eng. in Computer Science and Engineering*   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2020.9-2024.6**
 * GPA 90.51/100 (or 3.88/4.3), Rank 11/108
-* CET6: 604 **2021.9**
+* CET6: 604 (2021.9)
 
-*MA.Eng. in Computer Science and Engineering*  **2024.9-now**
+*MA.Eng. in Computer Science and Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2024.9-now**
 
 
 About Me
