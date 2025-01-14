@@ -35,12 +35,10 @@ Papers
 
 Experience
 ======
-* CS3958: Topics in Modern Algorithms, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Fall 2023**
-
+* CS3958: Topics in Modern Algorithms, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Fall 2023**
     with Houshuang Chen, instructed by Chihao Zhang.
     
-* CS3936: Topics in Modern Algorithms, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Fall 2024**
-
+* CS3936: Topics in Modern Algorithms, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Fall 2024**
     Instructed by Chihao Zhang.
 
 Skills
