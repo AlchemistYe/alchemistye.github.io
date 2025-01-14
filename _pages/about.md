@@ -25,15 +25,11 @@ From 2023.9 to now, the range of my research most lies in multi-armed bandits (*
 Papers
 ======
 * Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits 
-    
     Yuchen He, **Zichun Ye**, Chihao Zhang 
-    
     In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(**SODA 2025**) 
     
 * Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits
-    
     **Zichun Ye**, Chihao Zhang, Jiahao Zhao
-    
     International Conference on Artificial Intelligence and Statistics(**AISTATS 2025**), in submission
 
 
