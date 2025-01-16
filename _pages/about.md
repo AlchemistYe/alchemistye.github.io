@@ -7,18 +7,19 @@ redirect_from:
   - /about.html
 ---
 **Shanghai Jiao Tong University**              
-*B.Eng. in Computer Science and Engineering*   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2020.9-2024.6**
+<p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
+
 * GPA 90.51/100 (or 3.88/4.3), Rank 11/108
-* CET6: 604 (2021.9)
+* CET6: 604 <i>(December 2021)</i>
 
 **Shanghai Jiao Tong University**    
-*MA.Eng. in Computer Science and Engineering* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2024.9-now**
+<p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - now</i></span></p>
 
 
 About Me
 ======
 I am a first-year master student majored in CS in Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). 
-From 2023.9 to now, the range of my research most lies in multi-armed bandits (**MAB**) problem and online learning. And I have learnt some basic knowledge about high-dimensional probability and stochastic differential equation **(SDE)** to get ready for the exploration of new areas.
+From September 2023 to now, the range of my research most lies in multi-armed bandits (**MAB**) problem and online learning. And I have learnt some basic knowledge about high-dimensional probability and stochastic differential equation **(SDE)**. I have got fully prepared for the exploration of new areas.
 
 
 
@@ -42,8 +43,15 @@ Experience
     instructed by Chihao Zhang.
 
 
+Skills
+======
+* Programming Languages: C++, Python
+* Technical Skills: Qt(software), MySQL(database)
+
+
 Honors and Awards
 ======
-* Zhiyuan Honor Scholarship December &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2021,2022,2023**
-* Huawei Fellowship October &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2022**
+* <p style="text-align:left;"><b>Zhiyuan Honor Scholarship December</b><span style="float:right;">2021,2022,2023</span></p>
+*  <p style="text-align:right">2022</p>
+* <p style="text-align:left;">Huawei Fellowship October<span style="float:right;">2021,2022,2023</span></p>
 * COSCO First Class Scholarship October &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **2021**
