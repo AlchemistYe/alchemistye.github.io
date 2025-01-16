@@ -30,7 +30,7 @@ Papers
     In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>).</p>
 * <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
-    International Conference on Artificial Intelligence and Statistics(<b>AISTATS 2025</b>), in submission.</p>1
+    International Conference on Artificial Intelligence and Statistics(<b>AISTATS 2025</b>), in submission.</p>
 
 Experience
 ======
@@ -49,6 +49,6 @@ Skills
 
 Honors and Awards
 ======
-* <p style="text-align:left;"><b>Zhiyuan Honor Scholarship</b><span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
-* <p style="text-align:left;"><b>Huawei Fellowship </b><span style="float:right;"><i>October 2022</i> </span></p>
-* <p style="text-align:left;"><b>COSCO First Class Scholarship </b><span style="float:right;"><i>October 2021</i> </span></p>
+* <p style="text-align:left;">Zhiyuan Honor Scholarship<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
+* <p style="text-align:left;">Huawei Fellowship <span style="float:right;"><i>October 2022</i> </span></p>
+* <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
