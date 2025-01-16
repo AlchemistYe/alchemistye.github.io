@@ -30,8 +30,7 @@ Papers
     In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>).</p>
 * <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
-    International Conference on Artificial Intelligence and Statistics(<b>AISTATS 2025</b>), in submission.
-</p>
+    International Conference on Artificial Intelligence and Statistics(<b>AISTATS 2025</b>), in submission.</p>1
 
 Experience
 ======
