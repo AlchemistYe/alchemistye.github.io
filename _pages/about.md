@@ -19,7 +19,7 @@ redirect_from:
 About Me
 ======
 I am a first-year master student majored in CS in Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). 
-From September 2023 to now, the range of my research most lies in multi-armed bandits (**MAB**) problem and online learning. And I have learnt some basic knowledge about high-dimensional probability and stochastic differential equation **(SDE)**. I have got fully prepared for the exploration of new areas.
+From September 2023 to now, the range of my research most lies in multi-armed bandits (**MAB**) problem and online learning. And I have learnt some basic knowledge about high-dimensional probability and stochastic differential equation. I have got fully prepared for the exploration of new areas.
 
 
 
