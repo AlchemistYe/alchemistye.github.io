@@ -27,8 +27,7 @@ Papers
 ======
 * <p> Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <br>
     Yuchen He, <b>Zichun Ye</b>, Chihao Zhang <br>
-    In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>) 
-</p>
+    In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>)</p>
 
 
 * <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits <br>
