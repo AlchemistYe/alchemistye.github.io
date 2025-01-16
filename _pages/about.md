@@ -39,12 +39,8 @@ Experience
     with Houshuang Chen, instructed by Chihao Zhang.
     
 * CS3936: Topics in Modern Algorithms, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Fall 2024**
-    Instructed by Chihao Zhang.
+    instructed by Chihao Zhang.
 
-Skills
-======
-* Programming Languages: C++, Python
-* Technical Skills: Qt(software), MySQL(database)
 
 Honors and Awards
 ======
