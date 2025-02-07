@@ -38,7 +38,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 
 
 # 🔥 News
-- *2024.10*: :mahjong: :mahjong: Our work is accepted by **SODA 2025**. 
+- *2024.10*: :mahjong: Our work is accepted by **SODA 2025**. 
 
 # 📝 Publications 
 <!--
