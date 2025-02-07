@@ -38,7 +38,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our work is accepted by **SODA 2025**. 
+- *2024.10*: &nbsp;:mahjong::mahjong: Our work is accepted by **SODA 2025**. 
 
 # 📝 Publications 
 <!--
@@ -68,7 +68,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 * <p style="text-align:left;">Huawei Fellowship <span style="float:right;"><i>October 2022</i> </span></p>
 * <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
 
-:mahjong:
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
