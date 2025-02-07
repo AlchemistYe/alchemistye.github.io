@@ -70,6 +70,11 @@ From September 2023 to December 2024, the range of my research interest most lie
 * <p style = "text-align:left;"> CS3936: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2024</i> </span> <br>
   instructed by Chihao Zhang.</p>
 
+# 💻: Skills
+* Programming Languages: C++, Python.
+* Technical Skills: Qt(software), MySQL(database).
+
+
 # 🎖 Honors and Awards
 * <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
 * <p style="text-align:left;">Huawei Fellowship <span style="float:right;"><i>October 2022</i> </span></p>
