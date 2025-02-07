@@ -22,7 +22,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-# 📖 Educations
+# 🏫 Educations
 <!--
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,6 +62,13 @@ From September 2023 to December 2024, the range of my research interest most lie
 * <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
     International Computing and Combinatorics Conference(<b>COCOON 2025</b>), in submission.</p>
+
+# 📑 Experience
+* <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
+  with Houshuang Chen, instructed by Chihao Zhang.</p>
+  
+* <p style = "text-align:left;"> CS3936: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2024</i> </span> <br>
+  instructed by Chihao Zhang.</p>
 
 # 🎖 Honors and Awards
 * <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
