@@ -41,7 +41,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 - *2024.10*: &nbsp;🎉🎉 Our work is accepted by **SODA 2025**. 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +55,13 @@ From September 2023 to December 2024, the range of my research interest most lie
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+* <p> Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits. <br>
+    Yuchen He, <b>Zichun Ye</b>, Chihao Zhang. <br>
+    In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>).</p>
+* <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
+    <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
+    International Computing and Combinatorics Conference(<b>COCOON 2025</b>), in submission.</p>
 
 # 🎖 Honors and Awards
 * <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
