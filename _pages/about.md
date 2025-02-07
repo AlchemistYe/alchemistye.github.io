@@ -70,7 +70,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 * <p style = "text-align:left;"> CS3936: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2024</i> </span> <br>
   instructed by Chihao Zhang.</p>
 
-# 💻: Skills
+# 💻 Skills
 * Programming Languages: C++, Python.
 * Technical Skills: Qt(software), MySQL(database).
 
