@@ -57,7 +57,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-* <p style="text-align:left;">Zhiyuan Honor Scholarship<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
+* <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
 * <p style="text-align:left;">Huawei Fellowship <span style="float:right;"><i>October 2022</i> </span></p>
 * <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
 
