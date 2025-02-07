@@ -63,7 +63,7 @@ From September 2023 to December 2024, the range of my research interest most lie
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
     International Computing and Combinatorics Conference(<b>COCOON 2025</b>), in submission.</p>
 
-# 📑 Experience
+# 👨‍🔬: Experience
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
   with Houshuang Chen, instructed by Chihao Zhang.</p>
   
