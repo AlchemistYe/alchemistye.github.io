@@ -59,9 +59,11 @@ From September 2023 to December 2024, the range of my research interest most lie
 * <p> Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits. <br>
     Yuchen He, <b>Zichun Ye</b>, Chihao Zhang. <br>
     In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>).</p>
-* <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
+  
+<!--* <p> Tight Instance-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
-    <!--cv International Computing and Combinatorics Conference(<b>COCOON 2025</b>),--> In submission.</p>
+    International Computing and Combinatorics Conference(<b>COCOON 2025</b>), in submission.</p>
+  -->
 
 # 👨‍🔬 Experiences
 -- **Teaching Assistant**
