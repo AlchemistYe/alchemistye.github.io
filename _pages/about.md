@@ -65,8 +65,9 @@ From September 2023 to December 2024, the range of my research interest most lie
     In International Computing and Combinatorics Conference (<b>COCOON 2025</b>).</p> 
     
 * <p> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits. <br>
+    In submission.</p>
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
-  In submission.</p>
+    
 
 # 👨‍🔬 Experiences
 -- **Teaching Assistant**
