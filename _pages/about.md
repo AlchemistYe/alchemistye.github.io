@@ -38,7 +38,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 
 
 # 🔥 News
-- *October 2024*: 🍾🍾 Our work is accepted by **SODA 2025**. 
+- *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**. 
 
 # 📝 Publications 
 <!--
@@ -58,13 +58,15 @@ From September 2023 to December 2024, the range of my research interest most lie
 -->
 * <p> Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits. <br>
     Yuchen He, <b>Zichun Ye</b>, Chihao Zhang. <br>
-    In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms(<b>SODA 2025</b>).</p>
+    In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (<b>SODA 2025</b>).</p>
   
 * <p> Tight Gap-Dependent Memory-Regret Trade-Off for Single-Pass Streaming Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye</b>, Chihao Zhang, Jiahao Zhao. <br>
-    In submission.
-<!--    International Computing and Combinatorics Conference(<b>COCOON 2025</b>), in submission.</p>
--->
+    In International Computing and Combinatorics Conference (<b>COCOON 2025</b>).</p> 
+    
+* <p> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits. <br>
+    <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br>
+    In submission.</p>
 
 # 👨‍🔬 Experiences
 -- **Teaching Assistant**
