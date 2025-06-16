@@ -30,7 +30,7 @@ From September 2023 to December 2024, the range of my research interest most lie
 **Shanghai Jiao Tong University**
 <p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
 
-* GPA 90.51/100 (or 3.88/4.3), Rank 11/108
+* GPA 90.77/100 (or 3.90/4.3), Rank 10/105
 * CET6: 604 <i>(December 2021)</i>
 
 **Shanghai Jiao Tong University** 
