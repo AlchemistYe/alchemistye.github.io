@@ -34,7 +34,7 @@ From September 2023 to July 2025, the range of my research interest most lies in
 * CET6: 604 <i>(December 2021)</i>
 
 **Shanghai Jiao Tong University** 
-<p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - now</i></span></p>
+<p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - March 2027 (Expected)</i></span></p>
 * GPA 3.87/4.0
 
 # 🔥 News
