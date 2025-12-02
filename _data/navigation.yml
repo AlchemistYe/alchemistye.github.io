@@ -2,24 +2,27 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+
+  - title: "CV"
+    url: "/cv.pdf"
     
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
     
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
-  - title: "Experiences"
-    url: "/#-experiences"
+  # - title: "Experiences"
+  #   url: "/#-experiences"
 
-  - title: "Skills"
-    url: "/#-skills"
+  # - title: "Skills"
+  #   url: "/#-skills"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
