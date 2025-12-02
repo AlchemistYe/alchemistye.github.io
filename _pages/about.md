@@ -15,10 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 I'm a second-year master student majored in Computer Science in Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). 
-From September 2023 to July 2025, the range of my research interest most lies in multi-armed bandits (**MAB**) problem and some of its variants, such as combinatorial mab and mab under memory constraints. Furthermore, I read a series of theoretical works about online learning including reinforcement learning and gain a broad range of fundamental knowledge. From the course "Topics in Modern Algorithms" offered by my instructor, I also have learnt some basic knowledge about high-dimensional probability and stochastic differential equation. I am always eager to explore new areas and am fully prepared to embrace fresh challenges. 
+My research interest mainly includes online learning for decision making, particularly multi-armed bandits (mab) with its variants, such as combinatorial mab and streaming mab under memory constraints. Furthermore, I read a series of theoretical works about online learning including reinforcement learning and develop a decent range of fundamental knowledge. From the course "Topics in Modern Algorithms" offered by my instructor, I also have learnt some basic knowledge about high-dimensional probability and stochastic differential equation. I am always eager to explore new areas and am fully prepared to embrace fresh challenges. 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
@@ -35,10 +36,11 @@ From September 2023 to July 2025, the range of my research interest most lies in
 
 **Shanghai Jiao Tong University** 
 <p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - March 2027 (Expected)</i></span></p>
+
 * GPA 3.87/4.0
 
-# 🔥 News
-- *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**. 
+<!-- # 🔥 News
+- *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**.  -->
 
 # 📝 Publications 
 <!--
@@ -71,6 +73,16 @@ From September 2023 to July 2025, the range of my research interest most lies in
     
 
 # 👨‍🔬 Experiences
+-- **Research Experience**
+* <p style = "text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br> 
+    Advisor: Prof. Chihao Zhang, SJTU.</p>
+
+* <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – June 2025</i> </span> <br> 
+    Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.</p>
+
+* <p style = "text-align:left;"> Unlearning for Offline Stochastic Linear Bandits <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
+    Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
+
 -- **Teaching Assistant**
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
   with Houshuang Chen, instructed by Chihao Zhang.</p>
@@ -79,13 +91,14 @@ From September 2023 to July 2025, the range of my research interest most lies in
   instructed by Chihao Zhang.</p>
 
 # 💻 Skills
-* Programming Languages: C++, Python.
+* Programming Languages: C++, Python, LaTex.
 * Technical Skills: Qt(software), MySQL(database).
 
 
 # 🎖 Honors and Awards
+* <p style="text-align:left;">Bosch Scholarship <span style="float:right;"> <i>December 2025</i></span></p>
 * <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
-* <p style="text-align:left;">Huawei Fellowship <span style="float:right;"><i>October 2022</i> </span></p>
+* <p style="text-align:left;">Huawei Scholarship <span style="float:right;"><i>October 2022</i> </span></p>
 * <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
 
 <!-- # 💬 Invited Talks
