@@ -72,7 +72,10 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br>
     In submission.</p>
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
-    
+
+* <p> Unlearning Stochastic Multi-Armed Bandits with Offline Data. <br>
+    <b>Zichun Ye</b>, Runqi Wang, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
+    In submission.</p>    
 
 # 👨‍🔬 Experiences
 -- **Research Experience**
@@ -82,7 +85,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 * <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.</p>
 
-* <p style = "text-align:left;"> Unlearning for Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
+* <p style = "text-align:left;"> Unlearning Stochastic Multi-Armed Bandits with Offline Data <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
 
 -- **Teaching Assistant**
