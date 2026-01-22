@@ -74,7 +74,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
 
 * <p> Unlearning Stochastic Multi-Armed Bandits with Offline Data. <br>
-    <b>Zichun Ye</b>, Runqi Wang, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
+    <b>Zichun Ye*</b>, Runqi Wang*, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
     In submission.</p>    
 
 # 👨‍🔬 Experiences
