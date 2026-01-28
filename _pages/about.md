@@ -84,7 +84,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 * <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.</p>
 
-* <p style = "text-align:left;"> Unlearning Stochastic Multi-Armed Bandits with Offline Data <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
+* <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
 
 -- **Teaching Assistant**
