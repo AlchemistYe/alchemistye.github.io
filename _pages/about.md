@@ -33,12 +33,12 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 **Shanghai Jiao Tong University**
 <p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
 
-* GPA 90.77/100 (or 3.90/4.3), Rank 10/105
+* GPA 90.77/100 (or 3.90/4.3).
 
 **Shanghai Jiao Tong University** 
 <p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - March 2027 (Expected)</i></span></p>
 
-* GPA 3.87/4.0
+* GPA 3.87/4.0.
 
 <!-- # 🔥 News
 - *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**.  -->
@@ -96,14 +96,15 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 # 💻 Skills
 * Programming Languages: C++, Python, LaTex.
 * Technical Skills: Qt (software), MySQL (database).
-* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5)
+* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5).
 
 
 # 🎖 Honors and Awards
-* <p style="text-align:left;">Bosch Scholarship <span style="float:right;"> <i>December 2025</i></span></p>
-* <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
-* <p style="text-align:left;">Huawei Scholarship <span style="float:right;"><i>October 2022</i> </span></p>
 * <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
+* <p style="text-align:left;">Huawei Scholarship <span style="float:right;"><i>October 2022</i> </span></p>
+* <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
+* <p style="text-align:left;">Bosch Scholarship <span style="float:right;"> <i>December 2025</i></span></p>
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
