@@ -34,7 +34,6 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 <p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
 
 * GPA 90.77/100 (or 3.90/4.3), Rank 10/105
-* CET6: 604 <i>(December 2021)</i>
 
 **Shanghai Jiao Tong University** 
 <p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - March 2027 (Expected)</i></span></p>
@@ -96,7 +95,8 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 
 # 💻 Skills
 * Programming Languages: C++, Python, LaTex.
-* Technical Skills: Qt(software), MySQL(database).
+* Technical Skills: Qt (software), MySQL (database).
+* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5)
 
 
 # 🎖 Honors and Awards
