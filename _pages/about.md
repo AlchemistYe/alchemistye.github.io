@@ -69,7 +69,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
     
 * <p> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits. <br>
     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br>
-    In submission.</p>
+    On [arxiv](https://arxiv.org/abs/2508.06247)>.</p>
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
 * <p> Unlearning Offline Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye*</b>, Runqi Wang*, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
@@ -83,8 +83,11 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 * <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.</p>
 
-* <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – Present</i> </span> <br> 
+* <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
+
+* <p style = "text-align:left;"> Swap Regret Minimization/Corelated Coarse Equllibrium <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
+    Advisor: Prof. Haipeng Luo, USC.</p>
 
 -- **Teaching Assistant**
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
@@ -96,7 +99,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 # 💻 Skills
 * Programming Languages: C++, Python, LaTex.
 * Technical Skills: Qt (software), MySQL (database).
-* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5).
+* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5). GRE (157 V 170 Q).
 
 
 # 🎖 Honors and Awards
