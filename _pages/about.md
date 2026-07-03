@@ -86,7 +86,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 * <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
 
-* <p style = "text-align:left;"> Swap Regret Minimization/Corelated Coarse Equllibrium <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
+* <p style = "text-align:left;"> Swap Regret Minimization/Coarse Correlated Equilibria <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
     Advisor: Prof. Haipeng Luo, USC.</p>
 
 -- **Teaching Assistant**
