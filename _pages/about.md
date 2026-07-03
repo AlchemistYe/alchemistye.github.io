@@ -69,7 +69,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
     
 * <p> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits. <br>
     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br>
-    On [arxiv](https://arxiv.org/abs/2508.06247).</p>
+    On <a href="https://arxiv.org/abs/2508.06247" target="_blank" rel="noopener">arxiv</a>. </p>
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
 * <p> Unlearning Offline Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye*</b>, Runqi Wang*, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
