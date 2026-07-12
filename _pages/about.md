@@ -69,7 +69,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
     
 * <p> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits. <br>
     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br>
-    On <a href="https://arxiv.org/abs/2508.06247" target="_blank" rel="noopener">Arxiv</a>. </p>
+    On Arxiv. <a href="https://arxiv.org/abs/2508.06247" target="_blank" rel="noopener">[Paper]</a>. </p>
 <!--     <b>Zichun Ye</b>, Runqi Wang, Xutong Liu, Shuai Li. <br> -->
 * <p> Unlearning Offline Stochastic Multi-Armed Bandits. <br>
     <b>Zichun Ye*</b>, Runqi Wang*, Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili. <br>
@@ -99,7 +99,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 # 💻 Skills
 * Programming Languages: C++, Python, LaTex.
 * Technical Skills: Qt (software), MySQL (database).
-* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5). GRE (157 V 170 Q).
+* Language: TOEFL 5.5 (107+/120, Reading 6, Listening 5.5, Speaking 5, Writing 5.5). GRE (157 VR 170 QR 4.0 AW).
 
 
 # 🎖 Honors and Awards
