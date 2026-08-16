@@ -17,9 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-
-I'm a second-year master student majored in Computer Science at Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). 
-My research interest mainly includes online learning for decision making, particularly multi-armed bandits (mab) with its variants, such as combinatorial mab, linear contextual bandits and mab in the streaming model. Furthermore, I read a series of theoretical works including RL theory and machine learning theory and develop a decent foundation. From the course "Topics in Modern Algorithms" offered by my instructor, I also have learnt some basic knowledge about high-dimensional probability and stochastic differential equation. I'm always eager to explore new areas and get fully prepared to embrace fresh challenges. 
+I'm a second-year master student majored in Computer Science at Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). My research interests lie in the theoretical foundations of sequential decision-making under uncertainty, with a focus on online learning, bandit algorithms, and learning in games. I am particularly interested in problems such as multi-armed bandits in streaming settings, combinatorial bandits, and swap-regret minimization in game-theoretic environments. More broadly, I am interested in understanding how learning agents can adapt to uncertain, non-stationary, or adversarial environments while maintaining rigorous performance guarantees, a theme that connects online learning, reinforcement learning, and multi-agent learning.
 
 I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free to reach out if you think my background aligns with your research!
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -86,7 +84,7 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 * <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br> 
     Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
 
-* <p style = "text-align:left;"> Swap Regret Minimization/Coarse Correlated Equilibria <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
+* <p style = "text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
     Advisor: Prof. Haipeng Luo, USC.</p>
 
 -- **Teaching Assistant**
