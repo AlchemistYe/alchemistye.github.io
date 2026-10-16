@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I'm a second-year master student majored in Computer Science at Shanghai Jiao Tong University, under the supervision of Prof. [Chihao Zhang](http://chihaozhang.com/). My research interests lie in the theoretical foundations of sequential decision-making under uncertainty, with a particular focus on online learning, bandit algorithms, reinforcement learning theory, and learning in games. I have worked on problems including multi-armed bandits in streaming settings, combinatorial bandits, and swap-regret minimization. More broadly, I am interested in understanding how learning agents can adapt to uncertain, non-stationary, or adversarial environments while retaining rigorous theoretical performance guarantees.
+I'm a second-year master student majored in Computer Science at Shanghai Jiao Tong University, under the supervision of Prof. <a href="http://chihaozhang.com/">Chihao Zhang</a>. My research interests lie in the theoretical foundations of sequential decision-making under uncertainty, with a particular focus on online learning, bandit algorithms, reinforcement learning theory, and learning in games. I have worked on problems including multi-armed bandits in streaming settings, combinatorial bandits, and swap-regret minimization. More broadly, I am interested in understanding how learning agents can adapt to uncertain, non-stationary, or adversarial environments while retaining rigorous theoretical performance guarantees.
 
 I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free to reach out if you think my background aligns with your research!
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -74,18 +74,20 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
     In submission.</p>    
 
 # 👨‍🔬 Experiences
+
 -- **Research Experience**
-* <p style = "text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br> 
-    Advisor: Prof. [Chihao Zhang](http://chihaozhang.com/), SJTU.</p>
 
-* <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br> 
-    Advisor: Prof. [Xutong Liu](https://xutongliu.me/), UW, Tacoma, Prof. [Shuai Li](https://shuaili8.github.io/), SJTU.</p>
+* <p style="text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br>
+    Advisor: Prof. <a href="http://chihaozhang.com/">Chihao Zhang</a>, SJTU.</p>
 
-* <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br> 
-    Advisor: Prof. [Xutong Liu](https://xutongliu.me/), UW, Tacoma, Prof. [Mengfan Xu](https://mengfanxu1997.github.io/), UMass, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), UMass.</p>
+* <p style="text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br>
+    Advisor: Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, UW, Tacoma, Prof. <a href="https://shuaili8.github.io/">Shuai Li</a>, SJTU.</p>
 
-* <p style = "text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
-    Advisor: Prof. [Haipeng Luo](https://haipeng-luo.net/), USC.</p>
+* <p style="text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br>
+    Advisor: Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, UW, Tacoma, Prof. <a href="https://mengfanxu1997.github.io/">Mengfan Xu</a>, UMass, Prof. <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a>, UMass.</p>
+
+* <p style="text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br>
+    Advisor: Prof. <a href="https://haipeng-luo.net/">Haipeng Luo</a>, USC.</p>
 
 -- **Teaching Assistant**
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
