@@ -76,16 +76,16 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 # 👨‍🔬 Experiences
 -- **Research Experience**
 * <p style = "text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br> 
-    Advisor: Prof. Chihao Zhang, SJTU.</p>
+    Advisor: Prof. [Chihao Zhang](http://chihaozhang.com/), SJTU.</p>
 
 * <p style = "text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br> 
-    Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.</p>
+    Advisor: Prof. [Xutong Liu](https://xutongliu.me/), UW, Tacoma, Prof. [Shuai Li](https://shuaili8.github.io/), SJTU.</p>
 
 * <p style = "text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br> 
-    Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.</p>
+    Advisor: Prof. [Xutong Liu](https://xutongliu.me/), UW, Tacoma, Prof. [Mengfan Xu](https://mengfanxu1997.github.io/), UMass, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), UMass.</p>
 
 * <p style = "text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br> 
-    Advisor: Prof. Haipeng Luo, USC.</p>
+    Advisor: Prof. [Haipeng Luo](https://haipeng-luo.net/), USC.</p>
 
 -- **Teaching Assistant**
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
