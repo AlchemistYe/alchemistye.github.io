@@ -37,8 +37,8 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 <p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
 
 * GPA 90.77/100 (or 3.90/4.3).
-<!-- # 🔥 News
-- *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**.  -->
+
+<!-- # 🔥 News- *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**.  -->
 
 # 📝 Publications 
 <!--
