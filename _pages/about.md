@@ -28,16 +28,15 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-**Shanghai Jiao Tong University**
-<p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
-
-* GPA 90.77/100 (or 3.90/4.3).
-
 **Shanghai Jiao Tong University** 
 <p style="text-align:left;"><i>MA.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2024 - March 2027 (Expected)</i></span></p>
 
 * GPA 3.87/4.0.
 
+**Shanghai Jiao Tong University**
+<p style="text-align:left;"><i>B.Eng. in Computer Science and Engineering</i><span style="float:right;"><i>September 2020 - June 2024</i></span></p>
+
+* GPA 90.77/100 (or 3.90/4.3).
 <!-- # 🔥 News
 - *May 2025*: 🍾🍾 Our work is accepted by **COCOON 2025**.  -->
 
@@ -76,25 +75,23 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 # 👨‍🔬 Experiences
 
 -- **Research Experience**
-
-* <p style="text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br>
-    Advisor: Prof. <a href="http://chihaozhang.com/">Chihao Zhang</a>, SJTU.</p>
+* <p style="text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br>
+    Advisor: Prof. <a href="https://haipeng-luo.net/">Haipeng Luo</a>, USC.</p>
+* <p style="text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br>
+    Advisor: Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, UW, Tacoma, Prof. <a href="https://mengfanxu1997.github.io/">Mengfan Xu</a>, UMass, Prof. <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a>, UMass.</p>
 
 * <p style="text-align:left;"> Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits <span style="float:right;"> <i>March 2025 – August 2025</i> </span> <br>
     Advisor: Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, UW, Tacoma, Prof. <a href="https://shuaili8.github.io/">Shuai Li</a>, SJTU.</p>
 
-* <p style="text-align:left;"> Unlearning Offline Stochastic Multi-Armed Bandits <span style="float:right;"> <i>October 2025 – January 2026</i> </span> <br>
-    Advisor: Prof. <a href="https://xutongliu.me/">Xutong Liu</a>, UW, Tacoma, Prof. <a href="https://mengfanxu1997.github.io/">Mengfan Xu</a>, UMass, Prof. <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a>, UMass.</p>
-
-* <p style="text-align:left;"> Swap Regret Minimization/Game Theory <span style="float:right;"> <i>March 2026 – Present</i> </span> <br>
-    Advisor: Prof. <a href="https://haipeng-luo.net/">Haipeng Luo</a>, USC.</p>
+* <p style="text-align:left;"> Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits <span style="float:right;"> <i>May 2023 – March 2025</i> </span> <br>
+    Advisor: Prof. <a href="http://chihaozhang.com/">Chihao Zhang</a>, SJTU.</p>
 
 -- **Teaching Assistant**
+* <p style = "text-align:left;"> CS3936: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2024</i> </span> <br>
+  instructed by Chihao Zhang.</p>
 * <p style = "text-align:left;"> CS3958: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2023</i> </span> <br>
   with Houshuang Chen, instructed by Chihao Zhang.</p>
   
-* <p style = "text-align:left;"> CS3936: Topics in Modern Algorithms, <span style="float:right;"> <i>Fall 2024</i> </span> <br>
-  instructed by Chihao Zhang.</p>
 
 # 💻 Skills
 * Programming Languages: C++, Python, LaTex.
@@ -103,10 +100,10 @@ I also have a plan to seek Ph.D. opportunities for Fall 2027. Please feel free t
 
 
 # 🎖 Honors and Awards
-* <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
-* <p style="text-align:left;">Huawei Scholarship <span style="float:right;"><i>October 2022</i> </span></p>
-* <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
 * <p style="text-align:left;">Bosch Scholarship <span style="float:right;"> <i>December 2025</i></span></p>
+* <p style="text-align:left;">Zhiyuan Honor Scholarship (Top 10%)<span style="float:right;"> <i>December 2021,2022,2023</i></span></p>
+* <p style="text-align:left;">Huawei Scholarship <span style="float:right;"><i>October 2022</i> </span></p>
+* <p style="text-align:left;">COSCO First Class Scholarship <span style="float:right;"><i>October 2021</i> </span></p>
 
 
 <!-- # 💬 Invited Talks
